@@ -1,0 +1,8 @@
+C:\Desarrollo\NET\Web\ConnectionBroker\ConnectionBroker\bin\ConnectionBroker.dll
+C:\Desarrollo\NET\Web\ConnectionBroker\ConnectionBroker\bin\ConnectionBroker.pdb
+C:\Desarrollo\NET\Web\ConnectionBroker\ConnectionBroker\bin\ConnectionBroker.xml
+C:\Desarrollo\NET\Web\ConnectionBroker\ConnectionBroker\obj\Debug\ConnectionBroker.Resources.resources
+C:\Desarrollo\NET\Web\ConnectionBroker\ConnectionBroker\obj\Debug\ConnectionBroker.vbproj.GenerateResource.Cache
+C:\Desarrollo\NET\Web\ConnectionBroker\ConnectionBroker\obj\Debug\ConnectionBroker.dll
+C:\Desarrollo\NET\Web\ConnectionBroker\ConnectionBroker\obj\Debug\ConnectionBroker.xml
+C:\Desarrollo\NET\Web\ConnectionBroker\ConnectionBroker\obj\Debug\ConnectionBroker.pdb

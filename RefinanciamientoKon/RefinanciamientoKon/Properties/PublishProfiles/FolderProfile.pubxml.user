@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>\\CRMXKIOVMWEB01\wwwroot\WCFRefinanciamiento</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/RefinanciamientoKon.dll">
+      <publishTime>05/29/2019 10:41:12</publishTime>
+    </File>
+    <File Include="bin/RefinanciamientoKon.pdb">
+      <publishTime>05/29/2019 10:41:12</publishTime>
+    </File>
+    <File Include="Properties/DataSources/System.Data.DataSet.datasource">
+      <publishTime>05/22/2019 12:29:05</publishTime>
+    </File>
+    <File Include="Refinanciamiento.svc">
+      <publishTime>05/22/2019 12:42:54</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/27/2019 12:44:59</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

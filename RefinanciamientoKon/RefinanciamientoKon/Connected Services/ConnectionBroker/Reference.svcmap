@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="c2300cd5-bc73-4f53-8729-023aa2457306" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://crmxkiovmapp12.credisys.com/BasicServices/ConnectionBroker/ConnectionBroker.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ConnectionBroker.xsd" MetadataType="Schema" ID="3441cfba-4964-410c-b5e7-d3bff5aff04a" SourceId="1" SourceUrl="http://crmxkiovmapp12.credisys.com/BasicServices/ConnectionBroker/ConnectionBroker.svc?xsd=xsd1" />
+    <MetadataFile FileName="ConnectionBroker1.xsd" MetadataType="Schema" ID="9ba36684-8776-4c71-9bed-c6e9951991e8" SourceId="1" SourceUrl="http://crmxkiovmapp12.credisys.com/BasicServices/ConnectionBroker/ConnectionBroker.svc?xsd=xsd2" />
+    <MetadataFile FileName="ConnectionBroker.disco" MetadataType="Disco" ID="987fec06-560b-4910-a738-df44890718ce" SourceId="1" SourceUrl="http://crmxkiovmapp12.credisys.com/BasicServices/ConnectionBroker/ConnectionBroker.svc?disco" />
+    <MetadataFile FileName="ConnectionBroker2.xsd" MetadataType="Schema" ID="5630e404-4c36-4dcf-9c52-46b3a925760c" SourceId="1" SourceUrl="http://crmxkiovmapp12.credisys.com/BasicServices/ConnectionBroker/ConnectionBroker.svc?xsd=xsd0" />
+    <MetadataFile FileName="ConnectionManager.wsdl" MetadataType="Wsdl" ID="d7cf7cfe-2932-4931-9a4f-6aef4b0a00db" SourceId="1" SourceUrl="http://crmxkiovmapp12.credisys.com/BasicServices/ConnectionBroker/ConnectionBroker.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

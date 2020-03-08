@@ -1,0 +1,14 @@
+C:\Users\jhernandez\source\repos\RefinanciamientoKon\RefinanciamientoKon\obj\Debug\RefinanciamientoKon.csprojAssemblyReference.cache
+C:\Users\jhernandez\source\repos\RefinanciamientoKon\RefinanciamientoKon\obj\Debug\RefinanciamientoKon.csproj.CoreCompileInputs.cache
+C:\Users\jhernandez\source\repos\RefinanciamientoKon\RefinanciamientoKon\bin\RefinanciamientoKon.dll.config
+C:\Users\jhernandez\source\repos\RefinanciamientoKon\RefinanciamientoKon\bin\RefinanciamientoKon.dll
+C:\Users\jhernandez\source\repos\RefinanciamientoKon\RefinanciamientoKon\bin\RefinanciamientoKon.pdb
+C:\Users\jhernandez\source\repos\RefinanciamientoKon\RefinanciamientoKon\obj\Debug\RefinanciamientoKon.dll
+C:\Users\jhernandez\source\repos\RefinanciamientoKon\RefinanciamientoKon\obj\Debug\RefinanciamientoKon.pdb
+C:\Users\jhernandez\Documents\Visual Studio 2017\projects\02SERVICIOS WEB\RefinanciamientoKon\RefinanciamientoKon\bin\RefinanciamientoKon.dll.config
+C:\Users\jhernandez\Documents\Visual Studio 2017\projects\02SERVICIOS WEB\RefinanciamientoKon\RefinanciamientoKon\bin\RefinanciamientoKon.dll
+C:\Users\jhernandez\Documents\Visual Studio 2017\projects\02SERVICIOS WEB\RefinanciamientoKon\RefinanciamientoKon\bin\RefinanciamientoKon.pdb
+C:\Users\jhernandez\Documents\Visual Studio 2017\projects\02SERVICIOS WEB\RefinanciamientoKon\RefinanciamientoKon\obj\Debug\RefinanciamientoKon.csprojAssemblyReference.cache
+C:\Users\jhernandez\Documents\Visual Studio 2017\projects\02SERVICIOS WEB\RefinanciamientoKon\RefinanciamientoKon\obj\Debug\RefinanciamientoKon.csproj.CoreCompileInputs.cache
+C:\Users\jhernandez\Documents\Visual Studio 2017\projects\02SERVICIOS WEB\RefinanciamientoKon\RefinanciamientoKon\obj\Debug\RefinanciamientoKon.dll
+C:\Users\jhernandez\Documents\Visual Studio 2017\projects\02SERVICIOS WEB\RefinanciamientoKon\RefinanciamientoKon\obj\Debug\RefinanciamientoKon.pdb

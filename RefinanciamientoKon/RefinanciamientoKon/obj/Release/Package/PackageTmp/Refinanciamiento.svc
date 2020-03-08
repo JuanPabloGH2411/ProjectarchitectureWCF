@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="RefinanciamientoKon.DataReciever" CodeBehind="Refinanciamiento.svc.cs" %>

@@ -1,0 +1,7 @@
+C:\Users\jhernandez\source\repos\RefinanciamientoKon\RefinanciamientoKon\bin\RefinanciamientoKon.dll.config
+C:\Users\jhernandez\source\repos\RefinanciamientoKon\RefinanciamientoKon\bin\RefinanciamientoKon.dll
+C:\Users\jhernandez\source\repos\RefinanciamientoKon\RefinanciamientoKon\bin\RefinanciamientoKon.pdb
+C:\Users\jhernandez\source\repos\RefinanciamientoKon\RefinanciamientoKon\obj\Release\RefinanciamientoKon.csprojAssemblyReference.cache
+C:\Users\jhernandez\source\repos\RefinanciamientoKon\RefinanciamientoKon\obj\Release\RefinanciamientoKon.csproj.CoreCompileInputs.cache
+C:\Users\jhernandez\source\repos\RefinanciamientoKon\RefinanciamientoKon\obj\Release\RefinanciamientoKon.dll
+C:\Users\jhernandez\source\repos\RefinanciamientoKon\RefinanciamientoKon\obj\Release\RefinanciamientoKon.pdb

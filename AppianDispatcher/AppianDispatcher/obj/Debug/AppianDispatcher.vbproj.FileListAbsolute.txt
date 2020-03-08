@@ -1,0 +1,26 @@
+C:\Desarrollo\NET\Web\AppianDispatcher\AppianDispatcher\bin\AppianDispatcher.dll
+C:\Desarrollo\NET\Web\AppianDispatcher\AppianDispatcher\bin\AppianDispatcher.pdb
+C:\Desarrollo\NET\Web\AppianDispatcher\AppianDispatcher\bin\AppianDispatcher.xml
+C:\Desarrollo\NET\Web\AppianDispatcher\AppianDispatcher\bin\AppianChannel.dll
+C:\Desarrollo\NET\Web\AppianDispatcher\AppianDispatcher\bin\AppianChannel.pdb
+C:\Desarrollo\NET\Web\AppianDispatcher\AppianDispatcher\bin\AppianChannel.xml
+C:\Desarrollo\NET\Web\AppianDispatcher\AppianDispatcher\obj\Debug\AppianDispatcher.Resources.resources
+C:\Desarrollo\NET\Web\AppianDispatcher\AppianDispatcher\obj\Debug\AppianDispatcher.vbproj.GenerateResource.Cache
+C:\Desarrollo\NET\Web\AppianDispatcher\AppianDispatcher\obj\Debug\AppianDispatcher.dll
+C:\Desarrollo\NET\Web\AppianDispatcher\AppianDispatcher\obj\Debug\AppianDispatcher.xml
+C:\Desarrollo\NET\Web\AppianDispatcher\AppianDispatcher\obj\Debug\AppianDispatcher.pdb
+C:\Desarrollo\NET\Web\AppianDispatcher\AppianDispatcher\bin\PersistanceManager.dll
+C:\Desarrollo\NET\Web\AppianDispatcher\AppianDispatcher\bin\PersistanceManager.pdb
+C:\Desarrollo\NET\Web\AppianDispatcher\AppianDispatcher\bin\PersistanceManager.xml
+C:\Desarrollo\NET\Web\AppianDispatcher\AppianDispatcher\obj\Debug\AppianDispatcher.vbprojResolveAssemblyReference.cache
+C:\Users\jhernandez\Documents\Visual Studio 2017\projects\02SERVICIOS WEB\AppianDispatcher\AppianDispatcher\bin\AppianDispatcher.dll
+C:\Users\jhernandez\Documents\Visual Studio 2017\projects\02SERVICIOS WEB\AppianDispatcher\AppianDispatcher\bin\AppianDispatcher.pdb
+C:\Users\jhernandez\Documents\Visual Studio 2017\projects\02SERVICIOS WEB\AppianDispatcher\AppianDispatcher\bin\AppianDispatcher.xml
+C:\Users\jhernandez\Documents\Visual Studio 2017\projects\02SERVICIOS WEB\AppianDispatcher\AppianDispatcher\bin\PersistanceManager.pdb
+C:\Users\jhernandez\Documents\Visual Studio 2017\projects\02SERVICIOS WEB\AppianDispatcher\AppianDispatcher\bin\PersistanceManager.xml
+C:\Users\jhernandez\Documents\Visual Studio 2017\projects\02SERVICIOS WEB\AppianDispatcher\AppianDispatcher\obj\Debug\AppianDispatcher.vbprojResolveAssemblyReference.cache
+C:\Users\jhernandez\Documents\Visual Studio 2017\projects\02SERVICIOS WEB\AppianDispatcher\AppianDispatcher\obj\Debug\AppianDispatcher.Resources.resources
+C:\Users\jhernandez\Documents\Visual Studio 2017\projects\02SERVICIOS WEB\AppianDispatcher\AppianDispatcher\obj\Debug\AppianDispatcher.vbproj.GenerateResource.Cache
+C:\Users\jhernandez\Documents\Visual Studio 2017\projects\02SERVICIOS WEB\AppianDispatcher\AppianDispatcher\obj\Debug\AppianDispatcher.dll
+C:\Users\jhernandez\Documents\Visual Studio 2017\projects\02SERVICIOS WEB\AppianDispatcher\AppianDispatcher\obj\Debug\AppianDispatcher.xml
+C:\Users\jhernandez\Documents\Visual Studio 2017\projects\02SERVICIOS WEB\AppianDispatcher\AppianDispatcher\obj\Debug\AppianDispatcher.pdb

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="\\CRMXKIOVMWEB01\wwwroot\WsAppianServices\" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="PublicWeb" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/AppianChannel.dll" publishTime="03/01/2019 19:56:07" />
+    <file relUrl="bin/PersistanceManager.pdb" publishTime="02/28/2014 13:16:32" />
+    <file relUrl="bin/AppianDispatcher.xml" publishTime="01/28/2020 17:25:33" />
+    <file relUrl="bin/PersistanceManager.xml" publishTime="02/28/2014 13:16:32" />
+    <file relUrl="Web.config" publishTime="09/20/2019 09:40:54" />
+    <file relUrl="bin/PersistanceManager.dll" publishTime="02/28/2014 13:16:32" />
+    <file relUrl="AppianDispatcher.svc" publishTime="03/01/2019 12:14:14" />
+    <file relUrl="bin/AppianDispatcher.pdb" publishTime="01/28/2020 17:25:33" />
+    <file relUrl="bin/AppianDispatcher.dll" publishTime="01/28/2020 17:25:33" />
+  </publishProfile>
+</publishData>

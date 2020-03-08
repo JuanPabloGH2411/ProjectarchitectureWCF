@@ -1,0 +1,16 @@
+C:\Desarrollo\NET\Web\ConnectionBroker\ConnectionBroker\bin\ConnectionBroker.dll
+C:\Desarrollo\NET\Web\ConnectionBroker\ConnectionBroker\bin\ConnectionBroker.pdb
+C:\Desarrollo\NET\Web\ConnectionBroker\ConnectionBroker\bin\ConnectionBroker.xml
+C:\Desarrollo\NET\Web\ConnectionBroker\ConnectionBroker\obj\Release\ConnectionBroker.Resources.resources
+C:\Desarrollo\NET\Web\ConnectionBroker\ConnectionBroker\obj\Release\ConnectionBroker.vbproj.GenerateResource.Cache
+C:\Desarrollo\NET\Web\ConnectionBroker\ConnectionBroker\obj\Release\ConnectionBroker.dll
+C:\Desarrollo\NET\Web\ConnectionBroker\ConnectionBroker\obj\Release\ConnectionBroker.xml
+C:\Desarrollo\NET\Web\ConnectionBroker\ConnectionBroker\obj\Release\ConnectionBroker.pdb
+C:\Users\jhernandez\Documents\Visual Studio 2017\projects\ConnectionBroker\ConnectionBroker\bin\ConnectionBroker.dll
+C:\Users\jhernandez\Documents\Visual Studio 2017\projects\ConnectionBroker\ConnectionBroker\bin\ConnectionBroker.pdb
+C:\Users\jhernandez\Documents\Visual Studio 2017\projects\ConnectionBroker\ConnectionBroker\bin\ConnectionBroker.xml
+C:\Users\jhernandez\Documents\Visual Studio 2017\projects\ConnectionBroker\ConnectionBroker\obj\Release\ConnectionBroker.Resources.resources
+C:\Users\jhernandez\Documents\Visual Studio 2017\projects\ConnectionBroker\ConnectionBroker\obj\Release\ConnectionBroker.vbproj.GenerateResource.Cache
+C:\Users\jhernandez\Documents\Visual Studio 2017\projects\ConnectionBroker\ConnectionBroker\obj\Release\ConnectionBroker.dll
+C:\Users\jhernandez\Documents\Visual Studio 2017\projects\ConnectionBroker\ConnectionBroker\obj\Release\ConnectionBroker.xml
+C:\Users\jhernandez\Documents\Visual Studio 2017\projects\ConnectionBroker\ConnectionBroker\obj\Release\ConnectionBroker.pdb

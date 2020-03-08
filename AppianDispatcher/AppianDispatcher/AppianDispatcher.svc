@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="VB" Debug="true" Service="AppianDispatcher.DataReciever" CodeBehind="AppianDispatcher.svc.vb" %>

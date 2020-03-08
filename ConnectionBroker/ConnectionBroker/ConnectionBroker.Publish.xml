@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\jhernandez\Documents\aplicacione\ConnectionBroker" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="CRMXKIOVMWEB01" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="ConnectionBroker.svc" publishTime="03/01/2019 21:58:13" />
+    <file relUrl="bin/ConnectionBroker.pdb" publishTime="03/22/2019 17:30:17" />
+    <file relUrl="bin/ConnectionBroker.xml" publishTime="03/22/2019 17:30:17" />
+    <file relUrl="Web.config" publishTime="03/04/2019 12:22:52" />
+    <file relUrl="bin/ConnectionBroker.dll" publishTime="03/22/2019 17:30:17" />
+  </publishProfile>
+</publishData>
